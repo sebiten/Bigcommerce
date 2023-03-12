@@ -5,3 +5,7 @@ export const cartSlice = createSlice({
   initialState: [],
   reducers: {},
 });
+
+// export const {} = cartSlice.actions;
+
+export default cartSlice.reducer;
